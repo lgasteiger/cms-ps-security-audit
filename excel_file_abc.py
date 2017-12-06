@@ -10,3 +10,14 @@
  ##############################################################################################
 '''
 
+from abc import ABC, abstractmethod
+
+class Excel_File_ABC(ABC):
+
+  __counter = 0
+  
+  @classmethod
+  def Excel_File_Instances(cls):
+    return cls.__counter
+  #end Excel_File_Instances
+#end Excel_File_ABC class
