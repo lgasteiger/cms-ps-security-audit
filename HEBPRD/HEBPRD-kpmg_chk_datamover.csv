@@ -1,0 +1,11 @@
+File,HEBPRD-kpmg_chk_datamover.csv
+Run Date, Fri 01 Dec 2017 10:00:08
+OPRID,OPRDEFNDESC,MENUNAME,AUTHORIZEDACTIONS,ROLESTATUS,DISPLAYONLY,ACCTLOCK,CLASSID,ROLENAME
+HWAN_SEC,Rebecca Wan Security Admin,DATA_MOVER,0,A,0,0,ALLPANLS,Administrator_Role
+HWAN_SEC,Rebecca Wan Security Admin,DATA_MOVER,0,A,0,0,EB_HCM_APP_DESIGNER,EB_HCM_APP_DESIGNER
+HWAN_SEC,Rebecca Wan Security Admin,DATA_MOVER,0,A,0,0,PPADMIN,Administrator_Role
+HWAN_SEC,Rebecca Wan Security Admin,DATA_MOVER,0,A,0,0,PPSUPER,Administrator_Role
+HWAN_SEC,Rebecca Wan Security Admin,DATA_MOVER,0,A,0,0,PTPT1100,Security Administrator
+HWAN_SEC,Rebecca Wan Security Admin,DATA_MOVER,0,A,0,0,PTPT1300,Portal Administrator
+Leo_Sec,Leo Gasteiger,DATA_MOVER,0,A,0,0,PTPT1300,Portal Administrator
+SCHEDULE,SCHEDULE,DATA_MOVER,0,A,0,0,PTPT1300,Portal Administrator
