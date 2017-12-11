@@ -1,0 +1,7 @@
+File,HEBPRD-kpmg_chk_psadmin.csv
+Run Date, Fri 01 Dec 2017 10:00:09
+OPRID,OPRDEFNDESC,CLASSID,ACCTLOCK,ROLESTATUS,ROLENAME
+HWAN_SEC,Rebecca Wan Security Admin,PSADMIN,0,A,PeopleSoft Administrator
+Leo_Sec,Leo Gasteiger,PSADMIN,0,A,PeopleSoft Administrator
+RCHEN,Roger Chen Security admin back,PSADMIN,0,A,PeopleSoft Administrator
+Thone_SEC,Thone Soungpanya,PSADMIN,0,A,PeopleSoft Administrator
